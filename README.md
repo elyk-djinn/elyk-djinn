@@ -13,5 +13,5 @@ Excel (pivot tables, slicers, lookups, dashboards) · Power BI (basics) · SQL (
 
 Experience
 
-- Statistics Intern, PSA NCR Provincial Statistical Office I (Apr to Jun 2026)
-- Business Process Analysis Intern, Allcard Inc. (Jul to Sep 2025)
+Statistics Intern, PSA NCR Provincial Statistical Office I (Apr to Jun 2026)
+Business Process Analysis Intern, Allcard Inc. (Jul to Sep 2025)
