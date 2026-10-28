@@ -4,7 +4,7 @@ Statistics graduate from the Polytechnic University of the Philippines (Sta. Mes
 
 Featured project
 
-[Standardizing a daily plant report: 32 manual steps to 12](https://github.com/genekylesolano19-lgtm/plant-report-process-improvement)
+[Standardizing a daily plant report: 32 manual steps to 12](https://github.com/elyk-djinn/plant-report-process-improvement)
 As a business process analysis intern, I documented a 32-step manual reporting process, designed a standard raw data format, and built an Excel dashboard that replaced static tables. Estimated daily encoding time fell from 96 to 47 minutes.
 
 What I work with
